@@ -15,17 +15,23 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Overview
 ### Screenshot
 
+- Mobile Version
+
 ![](./ss-mobile.png)
 
+- Tablet Version
+
 ![](./ss-tablet.png)
+
+- Desktop Version
 
 ![](./ss-desktop.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-testimonial-design-using-css-grid-5th2bfnKE)
+- Live Site URL: [Live Site](https://marif0025.github.io/testimonial-grid-template/)
 
 ## My process
 
