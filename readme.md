@@ -50,4 +50,4 @@ Since sketch or figma file was not provided in free version, so there is litle b
 
 - Website - [Github Profile](https://github.com/marif0025)
 - Frontend Mentor - [@marif0025](https://www.frontendmentor.io/profile/marif0025)
-- Twitter - [@marif0025](https://www.twitter.com/marif0025)
+- Twitter - [@iamarif005](https://www.twitter.com/iamarif005)
